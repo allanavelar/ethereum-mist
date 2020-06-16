@@ -19,7 +19,9 @@
         "skip": "Salta",
         "sending": "Inviando...",
         "create": "Crea",
-        "tryToReconnect": "Prova a riconnetterti"
+        "tryToReconnect": "Prova a riconnetterti",
+        "stayAnonymous": "Rimani anonimo",
+        "authorize": "Autorizza"
     },
     "commonWords": {
         "you": "Tu",
